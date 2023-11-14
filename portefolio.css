@@ -1,0 +1,49 @@
+<style>
+                body{
+                    font-family: Arial, sans-serif;
+                    margin: O;
+                    padding: 20px;
+                }
+
+                h1{
+                    color: #0c0909
+                    margin-bottom: 10px;
+                }
+
+                h2{
+                    color: #666
+                    margin-bottom: 5px;
+                }
+
+                p{
+                    margin-top: ;
+                }
+
+                .section {
+                    margin-bottom: 30px;
+                }
+
+                .section-title {
+                    font-size: 18px;
+                    font-weight: bold;
+                    margin-bottom: 10px;
+                }
+                
+                .section-content {
+                    margin-left: 20px;
+                }
+
+                .skills-list {
+                    list-style-type: none;
+                    paddind-left: O;
+                }
+
+                 .skills-list li {
+                        margin-bottom: 5px;
+                    }
+                    
+                .hobbies-list{
+                    list-style-type: disc;
+                }  
+                
+</style>

@@ -1,0 +1,58 @@
+<style>
+    .bordure {
+        border: 1px solid black;
+    }
+    .fond {
+        background-color: lightblue;
+    }
+    .text {
+        color:red;
+        font-size: 20px;
+    }
+
+</style>
+
+<style>
+.alignement {
+    text-align: center;
+}
+
+.marge {
+    margin: 10px;
+}
+</style>
+
+<style>
+.nav {
+    overflow: hidden;
+}
+
+.nav a {
+    float: left;
+    margin-right: 10px;
+}
+</style>
+
+<style>
+.encart {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
+
+.menu {
+    position: absolute;
+    top: 200px;
+    right: 20px;
+    background-color: lightgray;
+    padding: 10px;
+    display: none;
+}
+encart:hover .menu{
+    display: block;
+}
+</style>
+
+
+
